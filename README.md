@@ -14,7 +14,7 @@ Stevens Institute of Technology
 ## Dataset
 **CSI_data.mat is too large for GitHub.
 Download it here:
-https://drive.google.com/file/d/1liYlOxwPVNAf_a0a_vz8ARfqoaQUJGXg/view?usp=sharing**
+https://drive.google.com/file/d/1IiYlOxwPVNAf_a0a_vz8ARfqoaQUJGXg/view?usp=sharing
 
 After downloading place CSI_data.mat in the 
 same folder as main.m
