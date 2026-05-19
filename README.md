@@ -32,7 +32,7 @@ Forensics and Security, vol. 19, pp. 5301-5315, 2024.
 - dvc1and2comp.m        → For Ref
 - Fig 1                 → Fig 1 in reseacrh paper
 - Fig 2                 → Fig 2 in reseacrh paper
-- 
+  
 ## How To Run
 1. Download this repository
 2. Download CSI_data.mat from link above
