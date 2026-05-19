@@ -28,9 +28,11 @@ Forensics and Security, vol. 19, pp. 5301-5315, 2024.
 ## Repository Structure
 - main.m                → Run this first
 - llll.m                → Feature extraction
-- all15dvcscsirff.m     → Figure 1: All 15 devices
-- dvc1and2comp.m        → Figure 2: Device 1 vs 2
-
+- all15dvcscsirff.m     → For Ref 
+- dvc1and2comp.m        → For Ref
+- Fig 1                 → Fig 1 in reseacrh paper
+- Fig 2                 → Fig 2 in reseacrh paper
+- 
 ## How To Run
 1. Download this repository
 2. Download CSI_data.mat from link above
@@ -39,13 +41,6 @@ Forensics and Security, vol. 19, pp. 5301-5315, 2024.
 5. Navigate to project folder
 6. Run main.m
 
-## Figures
-
-### Figure 1 — All 15 Devices CSI and RF Fingerprint
-![Figure 1](Fig1_All15Devices.png)
-
-### Figure 2 — Device 1 vs Device 2 Comparison
-![Figure 2](Fig2_Device1vs2.png)
 
 ## Requirements
 - MATLAB R2020a or later
